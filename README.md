@@ -101,4 +101,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 Creator - M.Hammad Hassan  - hammadblti302@gmail.com
 
-Project Link: [https://github.com/yourusername/ai-sentiment-analyzer](https://github.com/yourusername/ai-sentiment-analyzer)
+Project Link: https://github.com/hammadhassanblti/AI-sentiment-analysis/tree/main
